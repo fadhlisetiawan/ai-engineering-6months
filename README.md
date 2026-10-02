@@ -4,7 +4,7 @@ My 6-month roadmap, notes, and project progress for AI Engineering.
 ## 🗓️ Month 1 — Python, Git & Engineering Basics
 
 ### 📅 Week 1: Python Fundamentals & Execution Logic
-- [ ] **Day 1:** Variables, Data Types & `input()`
+- [x] **Day 1:** Variables, Data Types & `input()`
 - [ ] **Day 2:** Conditionals (`if/elif/else`) & Logic Operators
 - [ ] **Day 3:** Loops (`for`, `while`) & `range()`
 - [ ] **Day 4:** Strings & F-strings
