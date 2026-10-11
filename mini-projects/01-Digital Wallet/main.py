@@ -1,11 +1,3 @@
-'''
-=== Digital Wallet ===
-1. Check Balance
-2. Deposite
-3. Withdraw
-4. Exit
-'''
-
 def digital_wallet():
     print("=== DIGITAL WALLET ===")
     balance = 0
